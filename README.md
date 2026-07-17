@@ -1,26 +1,14 @@
 # service-centre-management-system
-A full-stack Service Centre Management System built to optimize and automate service operations with a focus on efficiency, security, and scalability. The system implements email-based OTP authentication to ensure secure user access before navigating to the main application.
+A Python-based Service Centre Management System designed to streamline service operations efficiently. This project includes secure email-based OTP verification for user authentication, ensuring safe access before entering the main dashboard.
 
-Post authentication, users are directed to a dynamic and intuitive dashboard where they can seamlessly manage service requests, track customer records, and handle operational workflows in real time. The application is designed with a clean architecture and user-centric approach to improve productivity and reduce manual effort.
-
-Tech Stack:
-Backend: Python
-Database: SQL
-Authentication: Email OTP Verification
-Tools/Libraries: (add if used – e.g., Pandas, SMTP, etc.)
+Once verified, users can access a feature-rich interface to smoothly manage multiple tasks such as service requests, customer handling, and operational workflows. The system is built to provide a simple, user-friendly, and efficient experience for managing day-to-day service centre activities.
 
 Key Features:
-Secure login using Email OTP verification
-Interactive and user-friendly dashboard
-Efficient service request management system
-Customer data handling and tracking
-Structured and optimized workflow management
-Scalable and modular code design
 
-Highlights:
-Improved operational efficiency by automating manual service processes
-Focused on real-world service centre use-case implementation
-Clean and maintainable code structure for future scalability
+Email OTP Verification for secure login
+Smooth and user-friendly dashboard
+Efficient service and customer management
+Organized workflow handling
 
 <img width="2880" height="1800" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/b8b6c901-ca3a-440d-b6fa-34a192d136e1" />
 
